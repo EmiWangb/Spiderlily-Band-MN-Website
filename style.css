@@ -1,0 +1,195 @@
+.barrio-regular {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+p {
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style:inherit;
+    font-size: 23px;
+    align-content: center;
+    padding: 30px;
+    background-color: rgb(255, 255, 255);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    max-width: 850px;
+  }
+
+a {
+    font-family: 'RansomNote', sans-serif;
+    text-decoration: none;
+    padding: 20px;
+    align-content: center;
+    padding-top: 50px;
+    color: black;
+    
+  }
+ransom note {
+    font-family: 'RansomNote', sans-serif;
+}
+
+
+.imbue-uniquifier {
+  font-family: "Imbue", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style:normal;
+ }
+
+.italiana-regular {
+    font-family: "Italiana", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+html {
+    background-color:rgb(237, 213, 255);
+   
+}
+
+section{
+
+    text-align: center;
+}
+
+.link-font{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    
+   
+}
+
+footer {
+    background-color: white;
+    margin-top: 200px;
+    text-align: center;
+
+ 
+}
+
+h1{
+    font-size: 90px;
+    text-decoration: underline;
+    font-family: 'RansomNote', sans-serif;
+    color: rgb(88, 69, 194);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+    outline: black solid 2px;
+    
+
+}
+
+h2 {
+
+    margin-left: auto;
+    margin-right: auto;
+    font-size:40px ;
+    color: rgb(255, 255, 255);
+    outline: rgb(255, 255, 255) solid 2px;
+    background-image: url(assets/full\ band\ cropped.jpg);
+   
+    
+}
+
+
+.other-fonts {
+    font-size: 30px ;
+    color: black;
+    
+    
+}
+
+.main-links {
+    font-size: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    outline: rgb(0, 0, 0) solid 3px;
+    color: black;
+    
+    
+    
+}
+
+.navigation {
+    font-size: 40px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+.title-image {
+    background-image:url(assets/full\ band\ cropped.jpg) ;
+}
+
+h6 {
+    font-size: 20px;
+   
+}
+
+h7 {
+    font-size: 30px;
+    color: rgb(88, 69, 194);
+
+
+}
+
+.footer-links {
+    font-size: 25px ;
+    color: rgb(255, 255, 255);
+}
+
+
+#videoal video {
+    margin: 30px 0px 0px 20px;
+}
+
+#videoal {
+    margin: 50px 20px 10px 20px
+    width: 440px;
+}
+
+.h8 {
+    margin-left: auto;
+    margin-right: auto;
+    font-size:40px ;
+    color: rgb(0, 0, 0);
+    outline: rgb(0, 0, 0) solid 2px;
+
+}
+
+.h9 {
+    font-size: 25px ;
+ 
+    color: rgb(255, 255, 255);
+}
+
+.footer-navigation {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding-top: 30px;
+    
+}
+
+.h10 {
+
+    margin-left: auto;
+    margin-right: auto;
+    font-size:40px ;
+    color: rgb(255, 255, 255);
+    outline: rgb(255, 255, 255) solid 2px;
+    background-image: url(assets/full\ band\ cropped.jpg);
+  
+    
+}
